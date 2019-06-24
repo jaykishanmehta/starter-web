@@ -8,8 +8,12 @@ This is a simple introduction. Added new lined to introduction again
 
 ## Deployment
 
+Adding deployment notes
+
 ## Purpose
 
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+Some contribution notes
