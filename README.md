@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 Some contribution notes
+
+### Copyright
+
+Copyright text
