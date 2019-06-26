@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jaykishan Mehta - Developer
 
 # THANKS
 
