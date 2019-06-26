@@ -18,6 +18,8 @@ Sample website with plenty of files for demos
 
 Some contribution notes
 
+More ways to contribute
+
 ### Copyright
 
 Copyright text
