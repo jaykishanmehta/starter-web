@@ -14,6 +14,7 @@ Adding deployment notes
 ## Purpose
 
 Sample website with plenty of files for demos modification
+Some modification in purpose
 
 ## How to contribute
 
