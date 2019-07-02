@@ -13,7 +13,7 @@ Adding deployment notes
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos modification
 
 ## How to contribute
 
